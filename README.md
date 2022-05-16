@@ -3,3 +3,6 @@ Dashboard interactivo de análisis de ventas entre 2016 y 2018 de una empresa de
 
 dataset:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Proyecto en PBI:
+https://drive.google.com/file/d/1ZzjGVsUHCePNuQnPvAY__OMqCxVuTsJW/view?usp=sharing
